@@ -1,11 +1,21 @@
-# portfolio-logos
-Collection of my logo designs and visual identities
-# My Logo Portfolio 🎨
+# 🎨 Logo & Brand Identity Portfolio
 
-This repository showcases a selection of my logo designs and brand identity projects.  
-Each design reflects my style of blending fine arts with modern graphic design.  
+Welcome to my design portfolio!  
+Here, I showcase a selection of my **logo designs, brand identities, and creative visuals** that reflect my passion for fine arts and modern graphic design.
 
-# Contents
-- Logo designs
-- Posters
-- Brand identity samples
+## ✨ About Me
+I’m **Yasser Essawy**, a creative graphic designer, painter, and sculptor.  
+I blend traditional fine arts with digital design software to craft **unique, impactful, and memorable visuals**.
+
+## 📂 Portfolio Contents
+- ✅ Logo Designs  
+- ✅ Brand Identity Samples  
+- ✅ Posters & Creative Visuals  
+
+## 🛠 Tools I Use
+- Fine Arts (Sketching, Painting, Sculpture)  
+- Professional Design Software (Illustrator, Photoshop, and more)  
+
+## 🌐 Connect with Me
+- [Behance](https://www.behance.net/YasserEsawy)  
+- [LinkedIn](www.linkedin.com/in/yasseresawy007)
